@@ -41,8 +41,6 @@ This project analyzes the sales performance of Vrinda Store to identify patterns
   - Combo Chart for Orders vs. Sales.  
   - Top Products by Sales.  
 
----
-
 ### 5. **KPI**  
 - **Purpose**: Displays key performance indicators (KPIs) summarizing the store's performance.  
 - **KPIs Include**:  
@@ -92,6 +90,5 @@ This project analyzes the sales performance of Vrinda Store to identify patterns
 6. **Seasonal Sales Trends**:  
    Capitalize on periods of high sales (e.g., holidays or specific months). Offer discounts or bundles during these times.  
 
----
 
 
