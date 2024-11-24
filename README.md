@@ -4,8 +4,7 @@
 ## Project Description  
 This project analyzes the sales performance of Vrinda Store to identify patterns, trends, and actionable insights that can drive growth and increase revenue. Using structured data cleaning, visualization, and key performance indicators (KPIs), a comprehensive dashboard has been created for easy interpretation and strategic decision-making.
 
----
-
+--- 
 ## File Structure  
 
 ### 1. **Store Data**  
