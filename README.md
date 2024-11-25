@@ -16,7 +16,10 @@ This project analyzes the sales performance of Vrinda Store to identify patterns
 
 ### 2. **Data Cleaning**  
 - **Purpose**: This sheet involves the cleaning and transformation of raw data to ensure accuracy and consistency.  
-- **Tasks Performed**:  
+- **Tasks Performed**:
+  - Cleaned columns like gende,Age,Amount.
+  - Added columns like,age group,Month.
+  - Removed Columns like Currency as there is only one type of currency.
   - Standardized date formats (DD-MM-YYYY).  
   - Removed duplicates.  
   - Handled missing values.  
